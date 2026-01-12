@@ -10,7 +10,7 @@ Repo Grup 6
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/XEu588z_w2o" target="_blank">
     <img src="https://img.shields.io/badge/▶%20YouTube-Demo%20Aplikasi-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
