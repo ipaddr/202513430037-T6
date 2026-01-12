@@ -114,14 +114,10 @@ Aplikasi ini **bukan alat medis**. Informasi dan hasil asesmen bersifat edukatif
 
 ## 👥 Tim Pengembang (Repo Grup 6)
 
-* Devin
-* Anggota Kelompok lainnya
-
----
-
-## ⭐ Dukungan
-
-Jika repository ini bermanfaat, silakan beri ⭐ sebagai bentuk dukungan.
+* Muhammad Devin Rahadi (23343076)
+* M. Fakhrul Zuhdi (23343074)
+* Oksa Bayu Widrian (23343080)
+* Najwa Eldiara Owilia Tiksa (23343079)
 
 ---
 
