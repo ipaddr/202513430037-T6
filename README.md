@@ -21,8 +21,6 @@ Repo Grup 6
 
 ## 📱 Preview Aplikasi
 
-> 📌 *Tambahkan screenshot aplikasi ke folder `docs/` agar README terlihat lebih menarik.*
-
 | Beranda            | Riwayat               | Informasi          | Hasil Asesmen        |
 | ------------------ | --------------------- | ------------------ | -------------------- |
 | ![](docs/home.png) | ![](docs/history.png) | ![](docs/info.png) | ![](docs/result.png) |
